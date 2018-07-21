@@ -1,2 +1,6 @@
 # DijkstrasAlgorithm
-Implemented Dijkstras Algorithm in finding the most optimal path from any two points on a graph, decided by the user. Additionally, the graph may be created through the programs built-in RNG or specified by the user as well.
+
+The program performs Dijkstra's Algorithm in finding the most optimal path using either an automatically produced graph or a manually entered graph by the user. The output is in a matrix format, with the top row and leftmost column representing node-axis.
+
+
+
